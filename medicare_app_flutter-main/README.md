@@ -50,7 +50,5 @@ flutter run
 ## Project Output Screenshots
 
 Below are two screenshots from the project's user interface.
-
-![Doctor List and Medical Shops](Screenshot_2024-10-12_225640.png)
-
-![Find Your Doctor](Screenshot_2024-10-12_230028.png)
+![Screenshot 2024-10-12 225640](https://github.com/user-attachments/assets/b3b19d8f-220b-4f5e-ad85-f87ac756f23b)
+![Screenshot 2024-10-12 230028](https://github.com/user-attachments/assets/53e69616-af2c-4cb1-9988-217296e6e9f1)
